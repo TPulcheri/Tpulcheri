@@ -1,5 +1,4 @@
 - 🔭 I’m working on SRE / DevOps
-- 🌱 I’m learning Golang.
 - 📫 How to reach me: thiagopulcheri@gmail.com
 
 
